@@ -1,0 +1,22 @@
+A new rotate:
+patchSize(7,7),patchStep(1,1),numFilters(6,11),
+unionType:
+100000            010000            001000            000100            000010            000001
+A new rotate:
+patchSize(7,7),patchStep(1,1),numFilters(6,11),
+unionType:
+100000            010000            001000            000100            000010            000001
+A new rotate:
+patchSize(7,7),patchStep(1,1),numFilters(6,11),
+unionType:
+100000            010000            001000            000100            000010            000001
+A new rotate:
+patchSize(7,7),patchStep(1,1),numFilters(6,11),
+unionType:
+100000            010000            001000            000100            000010            000001
+average accuracy 78.90%
+PCNTrainTime:22.06
+SVMTrainTime:0.43
+testTime:178.17
+dim of feature:196608
+
